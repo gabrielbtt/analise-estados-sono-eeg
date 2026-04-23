@@ -15,7 +15,7 @@ O repositório está organizado da seguinte forma:
 * **`apresentacao/`**: Slides e materiais visuais utilizados no seminário acadêmico.
 * **`dados/`**: Armazenamento dos datasets e sinais brutos de EEG.
 * **`docs/`**: Documentação teórica e artigos de referência.
-* **`figuras/`**: Gráficos de sinais, matrizes e visualizações dos resultados.
+* **`figuras/`**: Gráficos de sinais e visualizações dos resultados.
 * **`notebooks/`**: Jupyter Notebooks para análise exploratória e testes rápidos.
 * **`src/`**: Scripts Python com as funções principais de pré-processamento e modelos.
 * **`ambiente.yml`**: Arquivo de configuração para replicar o ambiente de desenvolvimento via Conda.
