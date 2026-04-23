@@ -14,7 +14,7 @@ O repositório está organizado da seguinte forma:
 
 * **`apresentacao/`**: Slides e materiais visuais utilizados no seminário acadêmico.
 * **`dados/`**: Armazenamento dos datasets e sinais brutos de EEG.
-* **`docs/`**: Documentação teórica, artigos de referência e notas sobre a metodologia.
+* **`docs/`**: Documentação teórica e artigos de referência.
 * **`figuras/`**: Gráficos de sinais, matrizes e visualizações dos resultados.
 * **`notebooks/`**: Jupyter Notebooks para análise exploratória e testes rápidos.
 * **`src/`**: Scripts Python com as funções principais de pré-processamento e modelos.
