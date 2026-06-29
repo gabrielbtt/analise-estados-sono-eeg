@@ -1,0 +1,14 @@
+
+.idea/
+notebooks/.idea/
+notebooks/anaconda_projects/
+
+__pycache__/
+.ipynb_checkpoints/
+
+*.aux
+*.bbl
+*.blg
+*.log
+*.synctex
+*.synctex.gz
