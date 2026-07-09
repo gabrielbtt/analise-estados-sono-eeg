@@ -13,7 +13,6 @@ Este repositório contém o desenvolvimento de um projeto para identificação e
 O repositório está organizado da seguinte forma:
 
 * **`apresentacao/`**: Slides e materiais visuais utilizados no seminário acadêmico.
-* **`artigo/`**: Artigo Técnico desenvolvido sobre a modelagem, validação e comparação de modelos de aprendizado de máquina para classificação de estágios do sono.
 * **`dados/`**: Armazenamento dos datasets e sinais brutos de EEG.
 * **`docs/`**: Documentação teórica e artigos de referência.
 * **`figuras/`**: Gráficos de sinais e visualizações dos resultados das tabelas.
